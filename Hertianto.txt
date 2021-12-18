@@ -1,0 +1,5 @@
+This is my biography
+Name = Hertianto
+Gender = Male
+Age = 20
+Address = Batam
